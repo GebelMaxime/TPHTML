@@ -9,10 +9,14 @@ div{
     height: 20px;
     text-align: center;
 }
-
 #Corps{
     width: 100%;
 }
+
+.Divlongue{
+    width: 100%;
+}
+
 #contenu{
     width: 100%;
     background-color: yellow;
