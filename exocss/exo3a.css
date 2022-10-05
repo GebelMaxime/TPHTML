@@ -20,13 +20,18 @@ div{
     text-align: center;
 }
 
-#menu{
+#menuhaut{
     width: 20%;
     background-color: pink;
-    height: 910px;
+    height: 455px;
     float: left;
 }
-
+#menubas{
+    width: 20%;
+    background-color: violet;
+    height: 455px;
+    float: left;
+}
 #foot{
     width: 100%;
     background-color: greenyellow;
