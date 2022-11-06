@@ -1,0 +1,46 @@
+div {
+	text-align:center;
+}
+
+div#bandeau {
+	width:100%;
+	height:50px;
+	background-color:cyan;
+}
+div#contenu {
+	width:100%;
+	height: 845px;
+	background-color:yellow;
+	float: left;
+    
+}
+div#menu {
+	height: 400px;
+	background-color:red;
+	float: left;
+}
+
+div#menuhaut {
+	width:200px;
+	height:425px;
+	background-color:green;
+	}
+div#menubas {
+	width:200px;
+	height:425px;
+	background-color:violet;
+	}
+div#blocnews {
+        float:right;
+        width:200px;
+        height:200px;
+        background-color:red;
+    }
+div#piedpage {
+        width:100%;
+        height:50px;
+        background-color:greenyellow;
+        position:absolute;
+        bottom:0;
+        clear:both;
+    }
